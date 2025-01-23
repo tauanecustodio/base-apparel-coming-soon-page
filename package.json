@@ -1,0 +1,23 @@
+{
+  "name": "base-apparel-coming-soon-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)",
+  "homepage": "https://github.com/tauanecustodio/base-apparel-coming-soon-page#readme",
+  "bugs": {
+    "url": "https://github.com/tauanecustodio/base-apparel-coming-soon-page/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tauanecustodio/base-apparel-coming-soon-page.git"
+  },
+  "license": "ISC",
+  "author": "Tauane Custódio",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "devDependencies": {
+    "sass": "^1.83.4",
+    "typescript": "^5.7.3"
+  }
+}
